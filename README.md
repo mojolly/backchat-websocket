@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/mojolly/backchat-websocket.png)](http://travis-ci.org/mojolly/backchat-websocket)
 backchat-websocket
 ==================
 
